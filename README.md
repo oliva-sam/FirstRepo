@@ -1,1 +1,3 @@
 # FirstRepo
+practice, practice, practice...
+ABC! Always be coding 
