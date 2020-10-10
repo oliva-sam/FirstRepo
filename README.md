@@ -15,7 +15,9 @@ ABC! Always be coding
 # testing line break theory
 
 **two astericks makes things bold** 
+
 *one asterick makes things italics*
+
 >this arrow > will quote stuffs
 
 - dashes with a space afterward will make bullet points
