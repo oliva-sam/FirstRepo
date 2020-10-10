@@ -30,6 +30,7 @@ this thingy ` will make a block looking quote thing.you need 3 on top and 3 on b
 ```
 finally we use brackets [Samantha's_Github](https://github.com/oliva-sam/FirstRepo) to put the name of the link and parenthesis to insert the link. 
 
+# OMG the emojis do work! :joy:
 
 
 
